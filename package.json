@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-googleappsscript",
+  "version": "1.0.0",
+  "description": "Eslint shared configuration for Google Apps Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Nicholas Waltham",
+  "license": "ISC"
+}
