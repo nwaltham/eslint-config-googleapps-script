@@ -1,11 +1,15 @@
 {
-  "name": "eslint-config-googleappsscript",
+  "name": "eslint-config-googleapps-script",
   "version": "1.0.0",
   "description": "Eslint shared configuration for Google Apps Script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/nwaltham/eslint-config-googleapps-script"
+  },  
   "keywords": [
     "eslint",
     "eslintconfig"
